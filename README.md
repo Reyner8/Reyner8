@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Reyner Neo
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Reactjs & nodejs
+- 📫 How to reach me on instagram @reyner_n_ | @redev.app & email reynerneo08@gmail.com
