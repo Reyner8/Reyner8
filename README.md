@@ -42,7 +42,7 @@ I have experience developing systems that support hospital operations, including
 - Healthcare Technology
 
 ## 📫 Get in Touch
-- GitHub: [github.com/your-username](https://github.com/reyner8)
+- GitHub: [github.com/Reyner8](https://github.com/Reyner8)
 
 ---
 
