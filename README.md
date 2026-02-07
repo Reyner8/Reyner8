@@ -7,7 +7,7 @@ I build **scalable, reliable, and secure systems** that power hospital operation
 - **Frontend & Desktop:** React, Java (Swing/JavaFX)
 - **Backend:** Node.js, TypeScript, NestJS, Java (Spring Boot)  
 - **Database:** MySQL  
-- **Tools & DevOps:** Git, Linux, CI/CD
+- **Tools & DevOps:** Git, Linux, Basic CI/CD
 
 ## 📫 Connect with me
 - [GitHub](https://github.com/Reyner8)  
